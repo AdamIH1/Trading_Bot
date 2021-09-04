@@ -66,5 +66,5 @@ class trading_bot(object):
 # test order of volume 3 
 if __name__ == '__main__': 
     t = trading_bot()
-    t.submit_order(3)
+    t.submit_order(3) 
 
